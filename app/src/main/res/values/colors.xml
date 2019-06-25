@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26b7a9</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Buttons -->
+    <color name="btn_bg">#26b7a9</color>
+
+    <!-- Next and Previous Buttons -->
+    <color name="next_prev_btn_bg">#04a393</color>
+</resources>
